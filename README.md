@@ -5,6 +5,7 @@
 - 📫 How to reach me: 21jtsv@queensu.ca or shoot me a message on [Linkedin](https://www.linkedin.com/in/juliaviger/))!
 -  Pronouns: she/her
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaviger&layout=compact)
 
 <!---
 juliavig/juliavig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
