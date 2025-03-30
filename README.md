@@ -1,6 +1,6 @@
 
 #  **👋 Hi, I’m Julia Viger**
-- I’m interested in all things software development and finance.
+- I’m interested in all things software development.
 - 🌱 I’m in my 3rd year of Computer Engineering at Queen's University.
 - 📫 How to reach me: 21jtsv@queensu.ca or shoot me a message on [Linkedin](https://www.linkedin.com/in/juliaviger/))!
 -  Pronouns: she/her
